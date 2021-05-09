@@ -1,9 +1,8 @@
-
-
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+
+
 data = pd.read_csv('healthcare-dataset-stroke-data.csv')
 charges = data.drop(["id"],axis=1)
 corrDf = charges.apply(lambda x:pd.factorize(x)[0])
