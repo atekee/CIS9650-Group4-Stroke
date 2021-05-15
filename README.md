@@ -1,5 +1,6 @@
 # CIS9650
 BRAIN ATTACK (STROKE)
+Group 4: Xin Bian, Bingxuan Hu, Atabay Kadiroglu, Qiaoyi Tan, Wenyi Wang, Zixin Ye
 
 Project description: 
 According to WHO, stroke is the second leading cause of dealth and major cause of disability worldwide. We intend to create a progarm that can help people monitor their risks of getting a stroke.
