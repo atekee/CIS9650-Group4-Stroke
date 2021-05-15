@@ -3,6 +3,8 @@ BRAIN ATTACK (STROKE)
 
 Group members (group 4): Xin Bian, Bingxuan Hu, Atabay Kadiroglu, Qiaoyi Tan, Wenyi Wang, Zixin Ye
 
+Link to slides: https://drive.google.com/file/d/1VrsrQxEPC4c24lM08_tKEcg94lsAN_Xs/view?usp=sharing
+
 Project description: 
 According to WHO, stroke is the second leading cause of dealth and major cause of disability worldwide. We intend to create a progarm that can help people monitor their risks of getting a stroke.
 
