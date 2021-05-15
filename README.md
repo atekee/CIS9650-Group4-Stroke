@@ -15,7 +15,7 @@ For this analysis, we will use occurrence of stroke as the dependent variable. O
 
 Method: 
 python : numpy,pandas, sklearn,matplotlib,seaborn,os,warnings,dmba
-statistics: EDA(Exploratory Data Analysis),
+statistics: EDA(Exploratory Data Analysis), Oversampling, Naive Bayes
 
 Procedures:
 1.Data Pre-Processing: remove null and duplicate values,change data types...
@@ -24,6 +24,6 @@ Procedures:
 4.Feature Selection & Comparison of Models: desicion tree, logistic regression, naive bayes, random forest...
 5.A Small Program to test people's risk to brain stroke: people input their own data to see their risk to stroke.
 
-(Details for step 1-4 is in file 'Stroke_Analysis_and_Model_Building.ipynb', and program for step 6 is in file 'Stroke_Prediction_Program.py '.)
+(Details for step 1-4 is in file 'Stroke_Analysis_and_Model_Building.ipynb', and program for step 5 is in file 'Stroke_Prediction_Program.py '.)
 
 Outcome:
