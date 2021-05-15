@@ -13,6 +13,16 @@ such as gender, age, hypertension, heart disease, marital status, work type, res
 The dataset contains 5,110 observations with 12 attributes. Unknown or N/A imply that the information is either unavailable or not applicable. 
 For this analysis, we will use occurrence of stroke as the dependent variable. Occurrence of stroke is implied by 1 for an individual who has a stroke, 0 for an individual who does not have a stroke.
 
-Method:
+Method: 
+python : numpy,pandas, sklearn,matplotlib,seaborn,os,warnings,dmba
+statistics: EDA(Exploratory Data Analysis),
+
 Procedures:
+1.Data Pre-Processing
+2.Exploratory Data Analysis
+3.Preparation for Model Building
+4.Feature Selection
+5.Comparison of Models
+6.A Small Program to test people's risk to brain stroke
+
 Outcome:
