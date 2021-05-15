@@ -18,11 +18,12 @@ python : numpy,pandas, sklearn,matplotlib,seaborn,os,warnings,dmba
 statistics: EDA(Exploratory Data Analysis),
 
 Procedures:
-1.Data Pre-Processing
-2.Exploratory Data Analysis
-3.Preparation for Model Building
-4.Feature Selection
-5.Comparison of Models
-6.A Small Program to test people's risk to brain stroke
+1.Data Pre-Processing: remove null and duplicate values,change data types...
+2.Exploratory Data Analysis:
+3.Preparation for Model Building: remove outliers,Synthetic Minority Oversampling Technique (SMOTE)...
+4.Feature Selection & Comparison of Models: desicion tree, logistic regression, naive bayes, random forest...
+5.A Small Program to test people's risk to brain stroke: people input their own data to see their risk to stroke.
+
+(Details for step 1-4 is in file 'Stroke_Analysis_and_Model_Building.ipynb', and program for step 6 is in file 'Stroke_Prediction_Program.py '.)
 
 Outcome:
